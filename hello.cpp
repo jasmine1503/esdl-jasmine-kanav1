@@ -1,5 +1,6 @@
 #include <iostream>
-int main(void)
+void main()
 {
+  cout<<"ESDL";
 cout<<"Hello";
 }
