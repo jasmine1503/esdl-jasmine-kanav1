@@ -2,5 +2,6 @@
 void main()
 {
   cout<<"ESDL";
-cout<<"Hello";
+  int a=2;
+  cout<<a;
 }
